@@ -8,6 +8,13 @@ This repository contains the code and analysis for Task 2 of my Data Science int
 Dataset
 The Titanic dataset is a well-known dataset in the field of data science and contains information about passengers aboard the Titanic, including their demographics and survival status. This dataset is widely used for educational purposes and provides an opportunity to explore various data analysis techniques.
 
+Tools
+JupyterNotebook
+pandas
+numpy
+matplotlib
+seaborn
+
 Analysis Highlights
 
 Conducted data cleaning to handle missing values and duplicates.
