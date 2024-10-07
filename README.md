@@ -30,7 +30,7 @@ The data cleaning and exploratory data analysis performed on the Titanic dataset
 Contact Information
 For any inquiries or feedback regarding this project, please contact:
 
-linkdin: amolpakhare
+linkdin: https://www.linkedin.com/in/amol-pakhare-a39416259
 
 Email: pakhareamol300@gmail.com
 
